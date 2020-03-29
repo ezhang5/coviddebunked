@@ -1295,15 +1295,6 @@ img {
     left: 2800px
 }
 
-#nba-ball {
-    position: absolute;
-    left: 415px;
-    bottom: 250px;
-    width: 70px;
-    height: 70px;
-    background-image: url(../image/nba-ball.png)
-}
-
 #nba-board-1 {
     left: -160px;
     bottom: 0
@@ -1352,8 +1343,6 @@ img {
     background-image: url(../image/nba-board-blue.png)
 }
 
-
-
 #nba-container {
     position: absolute;
     left: 6680px;
@@ -1362,54 +1351,20 @@ img {
     height: 80%
 }
 
-#nba-player {
-    position: relative;
-    left: -50%;
-    overflow: hidden;
-    width: 300px;
-    height: 280px
-}
-
-#nba-player-eyes {
-    position: absolute;
-    left: 92px;
-    top: 75px;
-    width: 66px;
-    height: 30px;
-    opacity: 0;
-    filter: alpha(opacity=0);
-    background-image: url(../image/enemy-face-b-eyes.png)
-}
-
-#nba-player-container {
-    position: absolute;
-    left: 50%;
-    bottom: 0
-}
-
-#nba-player-frame {
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 1200px;
-    height: 280px;
-    background-image: url(../image/nba-player.png)
-}
-
 #nba-rim,
 #nba-rim-container {
     position: absolute;
-    width: 280px
+    width: 250px
 }
 
 #nba-rim-container {
-    left: 310px;
-    bottom: 45px;
-    height: 500px
+    left: 327px;
+    bottom: 0px;
+    height: 480px
 }
 
 #nba-rim {
-    height: 550px;
+    height: 480px;
     background-image: url(../image/transportation.png)
 }
 
