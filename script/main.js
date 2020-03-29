@@ -439,7 +439,7 @@ function nbaPlayerJump() {
 }
 
 function nbaPlayerFall() {
-    shiftNbaPlayerFrame(4), shakeRim(), bounceBall(), nbaBoardsJump(), animateNbaBoardsContinuously(), $(nbaPlayerContainerDiv).stop().animate({
+    shiftNbaPlayerFrame(4), bounceBall(), nbaBoardsJump(), animateNbaBoardsContinuously(), $(nbaPlayerContainerDiv).stop().animate({
         left: "450px",
         bottom: [0, "easeInCubic"]
     }, 300, function() {})
