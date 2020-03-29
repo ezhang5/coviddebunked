@@ -398,11 +398,12 @@ body {
 
 #contact-box {
     position: absolute;
-    top: 120px;
+    top: 0px;
+    bottom: 100px;
     margin-left: -840px;
     width: 940px;
     height: 420px;
-    background-image: url(../image/contact-box.png)
+    background-image: url(../image/house.png)
 }
 
 #contact-box-email {
