@@ -1305,42 +1305,42 @@ img {
 }
 
 #nba-board-1 {
-    left: -120px;
+    left: -160px;
     bottom: 0
 }
 
 #nba-board-2 {
-    left: 0;
+    left: -40px;
     bottom: 0
 }
 
 #nba-board-3 {
-    left: 120px;
+    left: 80px;
     bottom: 0
 }
 
 #nba-board-4 {
-    left: 240px;
+    left: 200px;
     bottom: 0
 }
 
 #nba-board-5 {
-    left: 550px;
+    left: 590px;
     bottom: 0
 }
 
 #nba-board-6 {
-    left: 670px;
+    left: 710px;
     bottom: 0
 }
 
 #nba-board-7 {
-    left: 790px;
+    left: 830px;
     bottom: 0
 }
 
 #nba-board-8 {
-    left: 910px;
+    left: 950px;
     bottom: 0
 }
 
@@ -1404,7 +1404,7 @@ img {
 
 #nba-rim-container {
     left: 310px;
-    bottom: 0;
+    bottom: 45px;
     height: 500px
 }
 
