@@ -1147,11 +1147,11 @@ body {
     left: 15px
 }
 #gate-text-3 {
-    left: 35px
+    left: 40px
 }
 
 #gate-text-4 {
-    left: 29px
+    left: 43px
 }
 
 .grass {
@@ -1236,7 +1236,7 @@ img {
 #javascript-banner-text-a,
 #javascript-banner-text-b {
     position: relative;
-    font-family: frankfurter-plain;
+    font-family: Arial;
     color: #fff;
     font-size: 39px;
     text-align: center;
