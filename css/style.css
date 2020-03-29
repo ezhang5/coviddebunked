@@ -875,7 +875,7 @@ body {
 .experience-text-b {
     position: relative;
     width: 100%;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-family: frankfurter-medium-plain;
     color: #fff;
     font-size: 35px;
@@ -884,7 +884,7 @@ body {
 
 .experience-text-b {
     font-family: frankfurter-plain;
-    font-size: 60px;
+    font-size: 40px;
     line-height: 54px
 }
 
@@ -912,7 +912,7 @@ body {
 
 .experience-text-container {
     position: absolute;
-    bottom: 185px;
+    bottom: 175px;
     width: 510px;
     background-color: #444;
     padding: 40px;
