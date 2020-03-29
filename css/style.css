@@ -2338,15 +2338,6 @@ img {
     background-image: url(../image/title-awards-and.png)
 }
 
-#title-contact {
-    position: absolute;
-    top: 0;
-    margin-left: -1040px;
-    width: 1080px;
-    height: 540px;
-    background-image: url(../image/title-contact.png)
-}
-
 #title-experience,
 #title-leonardi {
     position: absolute;
