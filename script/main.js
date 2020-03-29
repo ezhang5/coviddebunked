@@ -316,7 +316,7 @@ function positionVerticalLayersHorizontally() {
 
 function positionBalloonAndRobbyContainerHorizontally() {
     var e = pageVerticalPosition * layerHorizontalSpeedArray[layerHorizontalSpeedArray.length - 1] - (layerHorizontalArray[layerHorizontalArray.length - 1].offsetWidth - containerDiv.offsetWidth);
-    robbyMaxHorizontalDistance = .5 * containerDiv.offsetWidth + 250;
+    robbyMaxHorizontalDistance = .5 * containerDiv.offsetWidth + 255;
     var t = .5 * containerDiv.offsetWidth + e;
     robbyMaxHorizontalDistance <= t && (t = robbyMaxHorizontalDistance);
     var i = .5 * containerDiv.offsetWidth + 50,
