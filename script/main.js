@@ -1147,7 +1147,7 @@ var isRobbyJumping, isRobbyFalling, swimUpHeight, layersMovement, robbyRightEdge
     isRobbyBelowSeaLevel = !1,
     elevationArray = new Array,
     elevationNumberBelowRobby = null,
-    distanceBetweenRobbyAndBalloon = -250,
+    distanceBetweenRobbyAndBalloon = -275,
     counter = 0,
     switcher = 1,
     robbyStaticFrame = 0,
